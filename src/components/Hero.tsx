@@ -14,7 +14,7 @@ function Hero() {
       <img 
         src={skull} 
         alt="AI Face" 
-        className="w-72 h-72 object-cover rounded-full shadow-2xl shadow-orange-500/20"
+        className="w-72 h-80 object-cover rounded-full shadow-2xl shadow-orange-500/20"
       />
     </section>
   );
