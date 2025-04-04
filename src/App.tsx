@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import Events from './pages/Events';
 import AdminDashboard from './pages/AdminDashboard';
-import ChatBot from './components/ChatBot';
+import ChatBot from './components/Chatbot';
 function App() {
   return (
     <Router>
